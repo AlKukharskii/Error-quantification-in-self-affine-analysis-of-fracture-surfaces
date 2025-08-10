@@ -1,1 +1,1 @@
-# Uncertainty-Quantification-in-Self-Affine-Measurements-of-Correlative-Phenomena
+# Error quantification in self-affine analysis of fracture surfaces
